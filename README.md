@@ -1,0 +1,2 @@
+# simple-mailer
+python mailer
